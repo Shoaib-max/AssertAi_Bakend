@@ -48,7 +48,7 @@ and create two collections
 
 
 
-2 . in second collecyion insert data following data in graph :
+2 . in second collection insert data following data in graph :
 [  {
       "id": 1,
       "year": 2016,
